@@ -1,0 +1,9 @@
+{
+	"name": "VishnuLearning",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97367ab5-23b1-4d58-8330-66e028ebbf56",
+		"tenantId": "0c6c4c01-d573-4e3f-ac46-6e2424437afe"
+	}
+}
